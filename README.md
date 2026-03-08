@@ -27,5 +27,5 @@ To analyze sales data and create an interactive dashboard that evaluates individ
 -	Added Slicers to make the dashboard interactive and enable dynamic analysis.
 
 ## Dashboard 
-<a href= "">View Dashboard</a>
+<a href= "https://github.com/analyst-vani/Data-analysis-dashboard/blob/main/Dashboard%20Screenshot.png">View Dashboard</a>
 
